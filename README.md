@@ -1,4 +1,4 @@
-# 👋🏽 Hi, I'm [Your Name]
+# 👋🏽 Hi, I'm Asetoye Olusegun
 
 🎯 *Aspiring Data Analyst | Excel | SQL | Power BI | Python (beginner)*  
 💡 I turn raw data into meaningful business insights and data-driven strategies.  
